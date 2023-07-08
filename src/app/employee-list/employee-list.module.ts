@@ -22,4 +22,4 @@ import { EmployeeListComponent } from './employee-list.component';
   declarations: [EmployeeListComponent],
   exports: [EmployeeListComponent]
 })
-export class EmployeeListModule {}
+export class EmployeeListModule { }
